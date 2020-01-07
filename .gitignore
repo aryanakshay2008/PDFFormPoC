@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PDFFormPoC/DesignTimeBuild
+/.vs/PDFFormPoC/v16
+/PDFFormPoC/obj
+/PDFFormPoC/bin/Debug/netcoreapp2.2

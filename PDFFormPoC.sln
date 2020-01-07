@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFFormPoC", "PDFFormPoC\PDFFormPoC.csproj", "{6873C249-ABCD-42D5-ACDD-D0B3F7E6CEAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6873C249-ABCD-42D5-ACDD-D0B3F7E6CEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6873C249-ABCD-42D5-ACDD-D0B3F7E6CEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6873C249-ABCD-42D5-ACDD-D0B3F7E6CEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6873C249-ABCD-42D5-ACDD-D0B3F7E6CEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A745949-5A53-4BCB-AE11-5B3BFBF70DFD}
+	EndGlobalSection
+EndGlobal
